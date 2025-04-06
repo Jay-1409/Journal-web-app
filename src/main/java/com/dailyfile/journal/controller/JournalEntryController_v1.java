@@ -3,7 +3,7 @@ package com.dailyfile.journal.controller;
 import com.dailyfile.journal.entity.JournalEntry;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;JournalEntryController
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
